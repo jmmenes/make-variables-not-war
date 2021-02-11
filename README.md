@@ -47,3 +47,5 @@ This is because in the first example, if `x` changed value, `y` would continue t
 - Create another variable called `mySum`. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four plus one. Calculate it in code!
 - Create another variable called `myProduct`. Set it equal to the result of two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
 - Create another variable called `heightAndAge`. Set it equal to the sum of your mental age and height. Calculate it in code!
+
+**_ CHANGES TO README _**
